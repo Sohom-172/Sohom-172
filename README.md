@@ -24,4 +24,6 @@ Hey,I am Sohom Mandal,currently a CSE undergrad at the Indian Institute of Techn
 * Musicholic : ~~Listens too much music everyday sighh :)~~
 * Can term myself as football enthu junta
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohom-172)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Sohom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sohom-172&show_icons=true&theme=radical)
