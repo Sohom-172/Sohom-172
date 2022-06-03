@@ -23,3 +23,5 @@ Hey,I am Sohom Mandal,currently a CSE undergrad at the Indian Institute of Techn
 ### Some fun facts about me : ###
 * Musicholic : ~~Listens too much music everyday sighh :)~~
 * Can term myself as football enthu junta
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
