@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I am Sohom 👋
 
 <!--
 **Sohom-172/Sohom-172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hey,I am Sohom Mandal,currently a CSE undergrad at the Indian Institute of Technology, Bombay. 
+
+###Interests:###
+* Primarily interested in AI/ML, exploring more about NLP
+* ~~don't know yet~~
+
+###Some fun facts about me :###
+* Musicholic : ~~Listens too much music everyday sighh :)~~
+* Can term myself as football enthu junta
